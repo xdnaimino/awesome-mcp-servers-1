@@ -530,3 +530,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+- [io.github.xdnaimino/fast-html-mcp](https://github.com/Aimino-Tech/fast-html-mcp) - Lightning-fast HTML generation from AI agents with 9 tools, 15 components, and 10 templates.
